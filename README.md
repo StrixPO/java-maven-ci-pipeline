@@ -63,7 +63,10 @@ You should see:
 [INFO] BUILD SUCCESS
 ```
 📸 Screenshot
-![image](https://github.com/user-attachments/assets/5e108892-faec-40bb-a452-d57e83dd8638)
+
+
+![image](https://github.com/user-attachments/assets/1374eb0c-05f4-4b85-9be1-72d304747de9)
+
 
 📚 Outcome
   - Understand basic CI/CD pipeline setup
